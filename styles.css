@@ -1,0 +1,29 @@
+
+
+body {
+
+    background: linear-gradient(to right,rgb(164, 164, 184), rgb(77, 64, 64));
+    height: 200vh;
+   /* background-image:url("resources/space1.jfif");*/
+
+    
+}
+
+div table td {
+    border: 1px solid rgb(4, 4, 4);
+}
+
+thead {
+    background-color: rgb(220, 211, 211);
+    color: rgb(5, 5, 5);
+}
+img {
+
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+    border-style: double;
+    opacity: initial;
+    /*setup the sizing of the image*/
+
+}
